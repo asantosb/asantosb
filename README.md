@@ -13,5 +13,3 @@ const asantosb = {
 }
 ```
 ---
-
-⭐️ From [@Thaiane](https://github.com/Thaiane)
