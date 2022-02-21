@@ -10,7 +10,8 @@ const asantosb = {
   pronouns: "he" | "him",
   code: [Javascript, HTML, CSS, Java, PHP],
   tools: [Angular, Node],
-  databases: ["MongoDB", "mySQL", "SQLServer"]
+  databases: ["MongoDB", "mySQL", "SQLServer"],
+  currentOccupation: ["last year student, open for job opportunities"]
 };
 ```
 ---
