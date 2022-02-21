@@ -8,7 +8,7 @@
 ```javascript
 const asantosb = {
   pronouns: "he" | "him",
-  code: [Javascript, Typescript, HTML, CSS, Java, PHP],
+  code: [Javascript, HTML, CSS, Java, PHP],
   tools: [Angular, Node],
 }
 ```
