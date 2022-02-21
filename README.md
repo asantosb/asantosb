@@ -3,7 +3,7 @@
 <p><em>Web Application Development student <a href="http://www.unb.br">Grupo Studium</a></br>
 </em></p>
 
-### <img src="https://i.gifer.com/embedded/download/OpWJ.gif" width="50"> A little more about me...  
+### <img src="" width="50"> A little more about me...  
 
 ```javascript
 const asantosb = {
