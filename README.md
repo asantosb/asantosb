@@ -11,6 +11,6 @@ const asantosb = {
   code: [Javascript, HTML, CSS, Java, PHP],
   tools: [Angular, Node],
   databases: ["MongoDB", "mySQL", "SQLServer"]
-}
+};
 ```
 ---
