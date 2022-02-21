@@ -3,7 +3,7 @@
 <p><em>Web Application Development student <a href="http://www.unb.br">Grupo Studium</a></br>
 </em></p>
 
-[![Linkedin: asantosb](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/%C3%A1lvaro-santos-breval-513953164/)](https://www.linkedin.com/in/%C3%A1lvaro-santos-breval-513953164/)
+[![Linkedin: asantosb](link=https://www.linkedin.com/in/%C3%A1lvaro-santos-breval-513953164/)](https://www.linkedin.com/in/%C3%A1lvaro-santos-breval-513953164/)
 [![GitHub asantosb](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/asantosb)
 
 
