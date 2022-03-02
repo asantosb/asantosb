@@ -15,3 +15,4 @@ const asantosb = {
 };
 ```
 ---
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carleovaz&layout=compact&theme=dark)
