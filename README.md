@@ -9,7 +9,7 @@
 const asantosb = {
   pronouns: "he" | "him",
   code: [Javascript, HTML, CSS, Java, PHP],
-  tools: [React, Angular, Node],
+  tools: [React, Angular, Node, Laravel],
   databases: ["MongoDB", "mySQL", "SQLServer"],
   currentOccupation: ["last year student, open for job opportunities"]
 };
